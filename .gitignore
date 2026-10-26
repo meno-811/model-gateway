@@ -1,4 +1,4 @@
 config.yaml
 morning*
 tmp*
-*.log
+*.logkeys.json
